@@ -622,6 +622,7 @@
       },
       "1613321883059203ae": {
         "type": "map",
+        "disabled": true,
         "settings": {
           "heading": "Our physical address",
           "subheading": "<p>Come and say Hello. We will be happy to meet your in person.<\/p>",
@@ -648,6 +649,7 @@
       },
       "1613465098c76677b8": {
         "type": "richtext",
+        "disabled": true,
         "settings": {
           "heading": "Richtext",
           "subheading": "<p>Write something catchy for this section.<\/p>",
@@ -755,6 +757,7 @@
       },
       "16136560969da8aed2": {
         "type": "blog-posts",
+        "disabled": true,
         "settings": {
           "blog": "news",
           "limit": 4,
@@ -880,14 +883,16 @@
         "blocks": {
           "c4c94464-ebb5-4d24-a49f-192eb027cc26": {
             "type": "richtext",
+            "disabled": true,
             "settings": {
               "heading": "About KS BootShop",
-              "description": "<p>The best Free Shopify Theme powered by Bootstrap framework, developed respecting Shopify Themes Requirements, optimized for maximum page-speed and that can be easily customized for any store.<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" title=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" target=\"_blank\">Download Themes »<\/a><br\/> <\/p>",
+              "description": "<p>The best Free Shopify Theme powered by Bootstrap framework, developed respecting Shopify Themes Requirements, optimized for maximum page-speed and that can be easily customized for any store.<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" target=\"_blank\" title=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\">Download Themes »<\/a><br\/> <\/p>",
               "heading_size": "h5"
             }
           },
           "e00e2603-5c9c-4373-9917-00d8e58fb8f5": {
             "type": "richtext",
+            "disabled": true,
             "settings": {
               "heading": "About KondaSoft",
               "description": "<p>Premium Shopify Themes, that are awesome to your customers, blazing-fast in loading time and built-in with the necessary features to increase your store conversion rates (CVR) and average order value (AOV).<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\">Browse Themes »<\/a><\/p>",
@@ -902,24 +907,12 @@
               "heading_size": "h5",
               "direction": ""
             }
-          },
-          "b4097452-7361-46b5-8f88-a21eaccf5c63": {
-            "type": "social_menu",
-            "settings": {
-              "menu": "",
-              "heading": "Follow us",
-              "heading_size": "h5",
-              "direction": "flex-column",
-              "icon_size": "18",
-              "show_only_icons": false
-            }
           }
         },
         "block_order": [
           "c4c94464-ebb5-4d24-a49f-192eb027cc26",
           "e00e2603-5c9c-4373-9917-00d8e58fb8f5",
-          "84d98f57-a71d-49ea-a1a3-3fab0b59ff64",
-          "b4097452-7361-46b5-8f88-a21eaccf5c63"
+          "84d98f57-a71d-49ea-a1a3-3fab0b59ff64"
         ],
         "settings": {
           "container": true,
