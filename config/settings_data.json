@@ -121,25 +121,25 @@
           "172b7cd3-88f9-40fa-8018-0dc4ae8969b5": {
             "type": "collection",
             "settings": {
-              "collection": "men"
+              "collection": "econscious"
             }
           },
           "df891897-7319-4ebb-aaa7-bbf14ef75e87": {
             "type": "collection",
             "settings": {
-              "collection": "women"
+              "collection": "mens-1"
             }
           },
           "a81bbf31-c1a6-4446-9cff-d6d6df900dac": {
             "type": "collection",
             "settings": {
-              "collection": "children"
+              "collection": "womens"
             }
           },
           "e0a44746-e8c7-4134-b713-54e130bed1eb": {
             "type": "collection",
             "settings": {
-              "collection": "babies"
+              "collection": "accesories"
             }
           }
         },
@@ -228,6 +228,7 @@
       },
       "1613034094b1e14cbd": {
         "type": "logo-list",
+        "disabled": true,
         "blocks": {
           "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0": {
             "type": "logo",
@@ -456,7 +457,7 @@
       "16130473820c97e316": {
         "type": "featured-product",
         "settings": {
-          "product": "bag-series-1",
+          "product": "organic-tee",
           "container": true,
           "light_bg": false,
           "badge": "Featured product",
@@ -465,7 +466,7 @@
           "img_width": "720",
           "img_height": "720",
           "img_thumbnail": true,
-          "show_vendor": false,
+          "show_vendor": true,
           "show_price": true,
           "show_description": true,
           "description_truncate": "240",
