@@ -820,7 +820,7 @@
             "type": "text",
             "settings": {
               "title": "How long will it take to receive my order",
-              "description": "<p>This depends on whether it is an International or a Domestic order. All orders within the U.S. are considered domestic orders and they are shipped and delivered within 2-5 business days. Please see International Orders for more details.<\/p>"
+              "description": "<p>This depends on whether it is an International or a Domestic order. All orders within the U.K. are considered domestic orders and they are shipped and delivered within 2-5 business days. Please see International Orders for more details.<\/p>"
             }
           },
           "161368561105e641b5-2": {
