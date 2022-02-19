@@ -181,6 +181,7 @@
       },
       "16129467980997b2cd": {
         "type": "image-with-text",
+        "disabled": true,
         "settings": {
           "container": true,
           "light_bg": false,
@@ -310,7 +311,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/DA4434D8-0504-4CE9-A66D-1546474E08D0.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -319,7 +320,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/7BD6E4D3-825F-4DF0-857A-BCAAB7E2E520.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -328,7 +329,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/white-t-shirts-on-clothing-rack.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -337,7 +338,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/C63319C0-38F7-4F29-A94E-E88F24D742BC.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -346,25 +347,25 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/LOGO_transparent.png",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
           "23ee11d4-c30a-476a-b877-6acf3c1ff7d2": {
             "type": "image",
             "settings": {
-              "img": "shopify:\/\/shop_images\/3513B884-A675-4577-B3E1-EBA405929A9A.png",
+              "img": "shopify:\/\/shop_images\/person-organizes-clothes-on-a-thin-clothing-rack.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
           "62fe9250-d1ad-47d1-bb41-0de9b87f6645": {
             "type": "image",
             "settings": {
-              "img": "shopify:\/\/shop_images\/58BF9D05-07F7-482E-8043-C1F1DD0FCFE4.png",
+              "img": "shopify:\/\/shop_images\/groom-adjusting-cufflinks.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -373,7 +374,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/a-pile-of-denim-jeans-in-different-shades-of-blue.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -382,7 +383,7 @@
             "settings": {
               "img": "shopify:\/\/shop_images\/person-in-all-pink-smiles-and-holds-her-belly.jpg",
               "url": "#",
-              "caption": "Add your image caption",
+              "caption": "",
               "caption_size": "h6"
             }
           },
@@ -515,8 +516,8 @@
           "16131300457e5a9b91-0": {
             "type": "testimonial",
             "settings": {
-              "text": "<p>I love KondaSoft Shopify Themes, not only they are beautiful and attractive but they are super-fast as well. I have tried different theme providers before but with KondaSoft&#x27;s themes I could finish my store very quickly (within 1 week). I can recommend KondaSoft, that&#x27;s for sure... A+++<\/p>",
-              "name": "John Doe"
+              "text": "<p>I love x-ample clothing, not only they are beautiful and attractive but they are super-fitting as well. I have tried different online brands before but with x-ample I could finish my dream look very quickly. I can recommend x-ample clothing, that's for sure... A+++<\/p>",
+              "name": "Sarah Durres"
             }
           },
           "16131300457e5a9b91-1": {
