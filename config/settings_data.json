@@ -519,26 +519,10 @@
               "text": "<p>I love x-ample clothing, not only they are beautiful and attractive but they are super-fitting as well. I have tried different online brands before but with x-ample I could finish my dream look very quickly. I can recommend x-ample clothing, that's for sure... A+++<\/p>",
               "name": "Sarah Durres"
             }
-          },
-          "16131300457e5a9b91-1": {
-            "type": "testimonial",
-            "settings": {
-              "text": "<p>I have been successfully running my store with KondaSoft&#x27;s theme, KS WatchShop for 2 months now, and I&#x27;m really impressed with the performance and speed it has. The speed-rank for my Shopify store has increased dramatically after I switched to this theme...<\/p>",
-              "name": "Jane Doe"
-            }
-          },
-          "16131300457e5a9b91-2": {
-            "type": "testimonial",
-            "settings": {
-              "text": "<p>I thought to try KondaSoft Themes for one of my new Ecommerce adventures (a gift shop for my fiancé) and oh i was really blown away by the performance. They are just fast. Also, their themes have many sections available so that i can adjust the homepage exactly as I want to....<\/p>",
-              "name": "Jim Doe"
-            }
           }
         },
         "block_order": [
-          "16131300457e5a9b91-0",
-          "16131300457e5a9b91-1",
-          "16131300457e5a9b91-2"
+          "16131300457e5a9b91-0"
         ],
         "settings": {
           "heading": "Customer testimonials",
@@ -682,6 +666,7 @@
       },
       "161346609112cd0f90": {
         "type": "video",
+        "disabled": true,
         "settings": {
           "heading": "Video",
           "subheading": "<p>Write something catchy for this section.<\/p>",
@@ -828,7 +813,7 @@
             "type": "text",
             "settings": {
               "title": "Where do you ship?",
-              "description": "<p>We ship all around the world... Please provide here you own shipping information, including times, prices, options etc.<\/p>"
+              "description": "<p>We ship all around the world... Please see our dedicated shipping policy<\/p>"
             }
           },
           "161368561105e641b5-1": {
