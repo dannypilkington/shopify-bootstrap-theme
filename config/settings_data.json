@@ -151,7 +151,7 @@
         ],
         "settings": {
           "heading": "Collection list",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "subheading": "",
           "container": true,
           "light_bg": true,
           "heading_size": "h2",
