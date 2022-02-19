@@ -999,18 +999,10 @@
             "settings": {
               "title": "Details"
             }
-          },
-          "a002179c-cc4b-44a0-b368-e843a497174b": {
-            "type": "richtext",
-            "settings": {
-              "title": "Rich text",
-              "description": "<p>Feel free to create additional blocks like this for <strong>Shipping, Payments, etc<\/strong> through the Shopify Theme editor. Also, you may easily adjust their order by dragging and dropping.<\/p>"
-            }
           }
         },
         "block_order": [
-          "c41691ac-33a6-4af2-bb81-259ccfdd8e32",
-          "a002179c-cc4b-44a0-b368-e843a497174b"
+          "c41691ac-33a6-4af2-bb81-259ccfdd8e32"
         ],
         "settings": {
           "heading_size": "display-5",
@@ -1110,6 +1102,8 @@
           "show_description": false,
           "description_length": "70",
           "show_price": true,
+          "show_badge_sold_out": true,
+          "show_badge_sale": true,
           "row_": 2,
           "row_sm": 2,
           "row_md": 3,
