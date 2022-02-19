@@ -308,6 +308,7 @@
           "4542108e-43c9-4d88-b996-7fd9b750fad4": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/DA4434D8-0504-4CE9-A66D-1546474E08D0.jpg",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -316,6 +317,7 @@
           "27d3af47-c122-4a20-b3a2-4664ed203eca": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/7BD6E4D3-825F-4DF0-857A-BCAAB7E2E520.jpg",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -324,6 +326,7 @@
           "585f88aa-a094-4668-8bc1-ba23f9bbdddd": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/75A30FD4-3E8E-498B-A864-69402C7DD036.png",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -332,6 +335,7 @@
           "73417504-c1cc-48b7-a328-5382ba548e24": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/C63319C0-38F7-4F29-A94E-E88F24D742BC.jpg",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -340,6 +344,7 @@
           "0b1382b9-fc44-4c96-8dc4-0b9400753827": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/LOGO_transparent.png",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -348,6 +353,7 @@
           "23ee11d4-c30a-476a-b877-6acf3c1ff7d2": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/3513B884-A675-4577-B3E1-EBA405929A9A.png",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -356,6 +362,7 @@
           "62fe9250-d1ad-47d1-bb41-0de9b87f6645": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/58BF9D05-07F7-482E-8043-C1F1DD0FCFE4.png",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -364,6 +371,7 @@
           "f83caf36-0ad8-4436-a29e-e6eccb4f1fb2": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/a-pile-of-denim-jeans-in-different-shades-of-blue.jpg",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -372,6 +380,7 @@
           "39240703-c282-4405-8b9f-407fc004b217": {
             "type": "image",
             "settings": {
+              "img": "shopify:\/\/shop_images\/person-in-all-pink-smiles-and-holds-her-belly.jpg",
               "url": "#",
               "caption": "Add your image caption",
               "caption_size": "h6"
@@ -379,6 +388,7 @@
           },
           "63618c3b-5227-48c7-8fed-7ed05114ae35": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "url": "#",
               "caption": "Add your image caption",
@@ -387,6 +397,7 @@
           },
           "990c8fa7-c8ba-4262-995d-b54d5011b479": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "url": "#",
               "caption": "Add your image caption",
@@ -395,6 +406,7 @@
           },
           "9ffe7170-36a1-4b27-bd14-babe04f11bf2": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "url": "",
               "caption": "Add your image caption",
@@ -548,6 +560,7 @@
       },
       "161313402064cf991c": {
         "type": "text-columns-with-image",
+        "disabled": true,
         "blocks": {
           "161313402064cf991c-0": {
             "type": "content",
