@@ -79,9 +79,9 @@
       "161243980752a5ed7a": {
         "type": "featured-collection",
         "settings": {
-          "collection": "men",
+          "collection": "econscious",
           "heading": "Featured collection",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "subheading": "<p>our latest eco-friendly solution to fight plastic pollution<\/p>",
           "limit": 6,
           "container": true,
           "light_bg": false,
