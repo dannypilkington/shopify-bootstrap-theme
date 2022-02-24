@@ -420,8 +420,8 @@
           "9ffe7170-36a1-4b27-bd14-babe04f11bf2"
         ],
         "settings": {
-          "heading": "Gallery",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "heading": "",
+          "subheading": "",
           "container": false,
           "light_bg": false,
           "heading_size": "h2",
