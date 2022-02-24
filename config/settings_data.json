@@ -39,27 +39,17 @@
       "16124340768622aa4c": {
         "type": "carousel",
         "blocks": {
-          "16124340768622aa4c-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/3513B884-A675-4577-B3E1-EBA405929A9A.png",
-              "title": "Welcome to X-Ample",
-              "title_size": "h3",
-              "description": "<p>x-ample is the new example<\/p>"
-            }
-          },
           "16124340768622aa4c-1": {
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/DA4434D8-0504-4CE9-A66D-1546474E08D0.jpg",
-              "title": "Modern, Sustainable and Simple",
+              "title": "welcome to x-ample",
               "title_size": "h3",
-              "description": ""
+              "description": "<p>x-ample is the new example<\/p>"
             }
           }
         },
         "block_order": [
-          "16124340768622aa4c-0",
           "16124340768622aa4c-1"
         ],
         "settings": {
