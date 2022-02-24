@@ -516,7 +516,7 @@
         ],
         "settings": {
           "heading": "Customer testimonials",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "subheading": "",
           "light_bg": false,
           "heading_size": "h2",
           "heading_alignment": "text-center",
