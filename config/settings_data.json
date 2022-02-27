@@ -230,54 +230,60 @@
         "type": "logo-list",
         "disabled": true,
         "blocks": {
-          "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0": {
-            "type": "logo",
-            "settings": {
-              "url": "#"
-            }
-          },
           "9bb82def-3826-41b5-905f-dfd52ad91d33": {
             "type": "logo",
+            "disabled": true,
             "settings": {
               "url": "#"
             }
           },
           "4067c443-1eb5-414f-ae95-3b69634ee37f": {
             "type": "logo",
+            "disabled": true,
             "settings": {
+              "url": "#"
+            }
+          },
+          "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0": {
+            "type": "logo",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/2C6AC327-E6E4-4107-9323-4F804C348B49.png",
               "url": "#"
             }
           },
           "31c23b7b-a08b-4888-9072-fc0e6a53d7f2": {
             "type": "logo",
+            "disabled": true,
             "settings": {
               "url": "#"
             }
           },
           "a4e3d41f-1026-4398-9854-488337cdda21": {
             "type": "logo",
+            "disabled": true,
             "settings": {
               "url": "#"
             }
           },
           "5ca3d57d-533c-4459-b0a9-52a084aa7d3b": {
             "type": "logo",
+            "disabled": true,
             "settings": {
               "url": "#"
             }
           }
         },
         "block_order": [
-          "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0",
           "9bb82def-3826-41b5-905f-dfd52ad91d33",
           "4067c443-1eb5-414f-ae95-3b69634ee37f",
+          "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0",
           "31c23b7b-a08b-4888-9072-fc0e6a53d7f2",
           "a4e3d41f-1026-4398-9854-488337cdda21",
           "5ca3d57d-533c-4459-b0a9-52a084aa7d3b"
         ],
         "settings": {
-          "heading": "Logo list",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "heading": "",
+          "subheading": "",
           "container": true,
           "light_bg": false,
           "heading_size": "h4",
@@ -495,8 +501,8 @@
       "16131223138a584ff0": {
         "type": "newsletter",
         "settings": {
-          "heading": "Newsletter subscribe",
-          "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "heading": "Newsletter Subscribe",
+          "subheading": "<p>Promotions, new products and sales. <\/p><p><strong>Directly to your inbox.<\/strong><\/p>",
           "light_bg": false,
           "heading_size": "h2",
           "heading_alignment": "text-center",
