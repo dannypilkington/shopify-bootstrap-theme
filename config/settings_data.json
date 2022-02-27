@@ -108,12 +108,6 @@
       "161281990869fdf1c2": {
         "type": "collection-list",
         "blocks": {
-          "df891897-7319-4ebb-aaa7-bbf14ef75e87": {
-            "type": "collection",
-            "settings": {
-              "collection": "mens-1"
-            }
-          },
           "172b7cd3-88f9-40fa-8018-0dc4ae8969b5": {
             "type": "collection",
             "disabled": true,
@@ -127,10 +121,10 @@
               "collection": "womens"
             }
           },
-          "e0a44746-e8c7-4134-b713-54e130bed1eb": {
+          "df891897-7319-4ebb-aaa7-bbf14ef75e87": {
             "type": "collection",
             "settings": {
-              "collection": "accesories"
+              "collection": "mens-1"
             }
           },
           "5eddd83c-f269-4682-b139-2784a69ee721": {
@@ -138,14 +132,20 @@
             "settings": {
               "collection": "imtrickss"
             }
+          },
+          "e0a44746-e8c7-4134-b713-54e130bed1eb": {
+            "type": "collection",
+            "settings": {
+              "collection": "accesories"
+            }
           }
         },
         "block_order": [
-          "df891897-7319-4ebb-aaa7-bbf14ef75e87",
           "172b7cd3-88f9-40fa-8018-0dc4ae8969b5",
           "a81bbf31-c1a6-4446-9cff-d6d6df900dac",
-          "e0a44746-e8c7-4134-b713-54e130bed1eb",
-          "5eddd83c-f269-4682-b139-2784a69ee721"
+          "df891897-7319-4ebb-aaa7-bbf14ef75e87",
+          "5eddd83c-f269-4682-b139-2784a69ee721",
+          "e0a44746-e8c7-4134-b713-54e130bed1eb"
         ],
         "settings": {
           "heading": "Collection list",
