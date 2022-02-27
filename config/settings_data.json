@@ -44,7 +44,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/DA4434D8-0504-4CE9-A66D-1546474E08D0.jpg",
               "title": "welcome to x-ample",
-              "title_size": "h3",
+              "title_size": "h1",
               "description": "<p>x-ample is the new example<\/p>"
             }
           }
