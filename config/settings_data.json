@@ -43,9 +43,9 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/519FE2F0-3A94-4D50-9BD8-884DA3EF63F3.png",
-              "title": "welcome to x-ample",
+              "title": "",
               "title_size": "h1",
-              "description": "<p>x-ample is the new example<\/p>"
+              "description": ""
             }
           }
         },
