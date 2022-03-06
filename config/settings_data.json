@@ -1123,7 +1123,7 @@
           "btn_label": "Learn more",
           "btn_url": "shopify:\/\/collections\/econscious",
           "btn_color": "btn-outline-primary",
-          "btn_size": "",
+          "btn_size": "btn-lg",
           "padding_top": 5,
           "padding_bottom": 5,
           "margin_top": 0,
