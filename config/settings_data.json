@@ -1104,10 +1104,36 @@
           "margin_top": 0,
           "margin_bottom": 7
         }
+      },
+      "1646575379084884a0": {
+        "type": "image-with-text",
+        "settings": {
+          "container": true,
+          "light_bg": true,
+          "img": "shopify:\/\/shop_images\/trust-mark-supporter-black_1.jpg",
+          "img_width": "720",
+          "img_height": "720",
+          "img_thumbnail": false,
+          "img_alignment": "",
+          "heading": "CleanHub - Eco Friendly",
+          "subheading": "",
+          "heading_size": "h2",
+          "subheading_size": "",
+          "text": "<p>We're in partnership with CleanHub who help dissolve the fight against the amount of plastic in our oceans, with every order 1lb of plastic is removed!<\/p>",
+          "btn_label": "Learn more",
+          "btn_url": "shopify:\/\/collections\/econscious",
+          "btn_color": "btn-outline-primary",
+          "btn_size": "",
+          "padding_top": 5,
+          "padding_bottom": 5,
+          "margin_top": 0,
+          "margin_bottom": 7
+        }
       }
     },
     "content_for_index": [
       "16124340768622aa4c",
+      "1646575379084884a0",
       "161243980752a5ed7a",
       "161281990869fdf1c2",
       "16130473820c97e316",
