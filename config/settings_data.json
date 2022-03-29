@@ -31,8 +31,8 @@
         "settings": {
           "announcement": "<p>our new customer services phone: <strong>0800 538 5776<\/strong><\/p>",
           "show": true,
-          "homepage_only": true,
-          "bg_color": "#343a40",
+          "homepage_only": false,
+          "bg_color": "#000000",
           "text_color": "text-white"
         }
       },
