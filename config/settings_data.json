@@ -732,7 +732,7 @@
           "da74aea7-6769-4b97-9033-a30fe8615824": {
             "type": "social_menu",
             "settings": {
-              "menu": "",
+              "menu": "social-menu",
               "heading": "Follow us",
               "heading_size": "h5",
               "direction": "flex-column",
