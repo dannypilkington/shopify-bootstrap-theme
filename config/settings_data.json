@@ -728,10 +728,22 @@
               "heading_size": "h5",
               "direction": ""
             }
+          },
+          "da74aea7-6769-4b97-9033-a30fe8615824": {
+            "type": "social_menu",
+            "settings": {
+              "menu": "",
+              "heading": "Follow us",
+              "heading_size": "h5",
+              "direction": "flex-column",
+              "icon_size": "18",
+              "show_only_icons": false
+            }
           }
         },
         "block_order": [
-          "84d98f57-a71d-49ea-a1a3-3fab0b59ff64"
+          "84d98f57-a71d-49ea-a1a3-3fab0b59ff64",
+          "da74aea7-6769-4b97-9033-a30fe8615824"
         ],
         "settings": {
           "container": true,
