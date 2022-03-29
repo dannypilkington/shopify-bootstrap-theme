@@ -726,7 +726,7 @@
               "menu": "footer",
               "heading": "Footer menu",
               "heading_size": "h5",
-              "direction": ""
+              "direction": "flex-column"
             }
           },
           "da74aea7-6769-4b97-9033-a30fe8615824": {
@@ -739,11 +739,21 @@
               "icon_size": "18",
               "show_only_icons": false
             }
+          },
+          "42b478bb-cf2e-479f-a5d7-660645d68015": {
+            "type": "menu",
+            "settings": {
+              "menu": "main-menu",
+              "heading": "Quick links",
+              "heading_size": "h5",
+              "direction": "flex-column"
+            }
           }
         },
         "block_order": [
           "84d98f57-a71d-49ea-a1a3-3fab0b59ff64",
-          "da74aea7-6769-4b97-9033-a30fe8615824"
+          "da74aea7-6769-4b97-9033-a30fe8615824",
+          "42b478bb-cf2e-479f-a5d7-660645d68015"
         ],
         "settings": {
           "container": true,
