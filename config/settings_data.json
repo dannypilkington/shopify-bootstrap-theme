@@ -29,7 +29,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement": "<p>our new customer services phone: 0800 538 5776<\/p>",
+          "announcement": "<p>our new customer services phone: <strong>0800 538 5776<\/strong><\/p>",
           "show": true,
           "homepage_only": true,
           "bg_color": "#343a40",
