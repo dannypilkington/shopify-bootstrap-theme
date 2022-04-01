@@ -86,7 +86,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 }
             }
         </script>
-    </head>
+    {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+</head>
     <body class="template-{{ request.page_type }}">
       <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKKCXHF"
